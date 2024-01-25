@@ -1,6 +1,6 @@
 👋 Hey there, I'm Sandile!
 
-🚀 Aspiring web developer and coding enthusiast on a journey to turn lines of code into meaningful experiences.
+🚀 Aspiring full-stack developer/coding enthusiast.
 
 💻 Currently diving into the world of full-stack development, with a focus on JavaScript, HTML, CSS, Python, MongoDB and exploring the endless possibilities of the web.
 
