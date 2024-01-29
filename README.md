@@ -8,6 +8,6 @@
 
 🔍 Always curious, always learning. Let's connect, collaborate, and make some magic happen in the digital realm!
 
-📫 Reach me at devsandilenkmo@gmail.com or explore my coding adventures at https://main--imaginative-vacherin-c5b7a4.netlify.app/.
+📫 Reach me at devsandilenkmo@gmail.com
 
 Happy coding! 🚀
